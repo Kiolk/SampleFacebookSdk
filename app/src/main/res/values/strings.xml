@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleFacebookSdk</string>
+    <!--FacebookSdk-->
+    <string name="facebook_app_id">1881931645447217</string>
+    <string name="fb_login_protocol_scheme">fb1881931645447217</string>
+</resources>
